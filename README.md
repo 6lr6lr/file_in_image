@@ -41,7 +41,7 @@ step 2. enter file path(any, BUT DO NOT USE DIRECRORIS IT NOT WILL WORK) and wai
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/682c11ce-99b0-433d-8b22-03803f2205da)
 step 3. find image in the folder of file that you pick to use | name of file made like this (filename+.png)
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/6d162b5c-76d5-4438-a122-8811ae1d1079)
-
 step 4. open image to verefy that it works
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/105eae72-eeb8-44c7-8629-c0f1f0e26c22)
-##done!
+
+## done!
