@@ -35,7 +35,7 @@ if you dont have any idea what going on here remember that i too have no ideaðŸ™
 
 step 1. open file
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/c618abcb-3661-4045-a954-4c2127c9d1bd)
-step 2. enter file path(any, BUT DO NOT USE DIRECRORIS IT NOT WILL WORK) and wait
+step 2. enter file path(any, BUT DO NOT USE DIRECRORIS AS FILES IT NOT WILL WORK) and wait
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/682c11ce-99b0-433d-8b22-03803f2205da)
 step 3. find image in the folder of file that you pick to use | name of file made like this (filename+.png)
 ![image](https://github.com/6lr6lr/file_in_image/assets/98643541/6d162b5c-76d5-4438-a122-8811ae1d1079)
