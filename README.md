@@ -19,9 +19,7 @@ This is an app that convert an file to image
 
 ## FAQ
 
-1. does it virus?
-   no its not a virus cuz i bearly know how to trun python to exe 😭😭
-2. does even it work?
+1. does even it work?
    yes at least on my MAIN pc
    if it not work on your pc then contact me for info
 
