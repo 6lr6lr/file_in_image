@@ -21,11 +21,7 @@ This is an app that convert an file to image
 
 1. does even it work?
    yes at least on my MAIN pc
-   if it not work on your pc then contact me for info
-
-## Contact
-
-email: buggyruy@gmail.com
+   if it not work on your pc then uhh yes
 
 ## One small thing
 
